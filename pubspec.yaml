@@ -1,0 +1,11 @@
+name: json_compressor
+description: A Dart transformer that compresses or rather formats json files (by removinging mostly spaces)
+version: 1.0.0
+author: Stephan Schröder <simon.void+github@gmail.com>
+homepage: https://github.com/simon-void/json_compressor
+
+environment:
+  sdk: '>=1.12.0 <2.0.0'
+
+dependencies:
+  barback: ^0.15.2+9
